@@ -1,0 +1,12 @@
+using System;
+
+class ConvertDistance
+{
+	static void Main()
+	{
+		Console.Write("Enter distance in kilometers: ");
+		double kilometers = double.Parse(Console.ReadLine());
+		double miles = kilometers * 0.621371;
+		Console.WriteLine("Distance in miles: " + miles);
+	}
+}
