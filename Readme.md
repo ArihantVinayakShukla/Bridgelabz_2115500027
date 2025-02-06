@@ -1,5 +1,6 @@
 # Bridgelabz_2115500027
 
+# January  
 
 # Date-> 22-01-25
 
@@ -56,6 +57,8 @@
     - how to use common Built-in Functions
     - Procedural vs Object-oriented Programming Language
     - Class and Object
+    
+# February  
 
 # Date-> 02-02-25
 
@@ -69,3 +72,11 @@
     - static
     - sealed
     - is operator
+
+# Date-> 06-02-25
+
+    - Object Oriented Design Principles
+        - Association, Aggregation and Composition
+    - Class Diagram
+    - Object Diagrams
+    - Sequence Diagrams
