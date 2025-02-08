@@ -80,3 +80,15 @@
     - Class Diagram
     - Object Diagrams
     - Sequence Diagrams
+
+# Date-> 08-02-25
+
+    - Inheritance
+    - Single Level Inheritance
+    - Multilevel Inheritance
+    - Hierarchical Inheritance
+    - Key Features of Inheritance
+    - Method Overriding
+    - Constructor Inheritance in C#
+    - Polymorphism and Inheritance
+    - Access Modifiers and Inheritance
