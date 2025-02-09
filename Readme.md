@@ -92,3 +92,10 @@
     - Constructor Inheritance in C#
     - Polymorphism and Inheritance
     - Access Modifiers and Inheritance
+
+# Date-> 10-02-25
+
+    - Encapsulation
+    - Polymorphism 
+    - Interface
+    - Abstract Classes
