@@ -99,3 +99,9 @@
     - Polymorphism 
     - Interface
     - Abstract Classes
+
+# Date-> 11-02-25
+
+    - Single Linked List
+    - Double Linked List
+    - Circular Linked List
