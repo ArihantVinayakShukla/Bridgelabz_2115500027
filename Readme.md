@@ -112,3 +112,13 @@
     -Queue
     -HashMap(known as Dictionary)
     -Hash Function
+
+# Date-> 14-02-25
+
+    - Bubble Sort
+    - Insertion Sort
+    - Merge Sort
+    - Quick Sort
+    - Heap Sort
+    - Selection Sort
+    - Counting Sort
