@@ -122,3 +122,12 @@
     - Heap Sort
     - Selection Sort
     - Counting Sort
+
+# Date-> 16-02-25
+
+    - StringBuilder
+    - StringBuffer
+    - FileReader, 
+    - InputStreamReader
+    - Linear Search 
+    - Binary Search
