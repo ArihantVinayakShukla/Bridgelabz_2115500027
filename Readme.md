@@ -136,3 +136,7 @@
 
     - General Algorithm Best Practices
     - Time and space Complexity Optimization
+
+# Date-> 18-02-25
+
+    - Generics
