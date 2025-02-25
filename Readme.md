@@ -212,6 +212,13 @@
     - Real-World Use Cases
     - Annotation Processing Tools
 
+# Date-> 25-02-25
+
+    - Introduction to CSV
+    - Reading CSV Files
+    - Writing CSV Files
+    - Parsing CSV Data
+    - Data Validation
     - Reflection
     - Understanding of Reflection
     - Using Reflection in .NET
