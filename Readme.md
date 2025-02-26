@@ -223,3 +223,11 @@
     - Understanding of Reflection
     - Using Reflection in .NET
     - Annotations and Reflection
+
+# Date-> 26-02-25
+
+    - Introduction to JSON
+    - Reading JSON Data
+    - Writing JSON Data
+    - Parsing JSON Data
+    - JSON Schema Validation
