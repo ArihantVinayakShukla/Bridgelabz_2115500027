@@ -235,3 +235,11 @@
 # Date-> 28-02-25
 
     - WEB API
+
+# MARCH
+
+# Date-> 01-03-25
+
+    - Entity Framework
+    - Database connectivity
+    - Logger
