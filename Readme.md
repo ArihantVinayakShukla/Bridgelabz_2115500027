@@ -243,3 +243,8 @@
     - Entity Framework
     - Database connectivity
     - Logger
+
+# Date-> 03-03-25
+
+    - Swagger and Swagger UI
+    - Logger(nLog)
