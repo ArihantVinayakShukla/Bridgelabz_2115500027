@@ -248,3 +248,7 @@
 
     - Swagger and Swagger UI
     - Logger(nLog)
+
+# Date-> 06-03-25
+
+    - Redis implementation and integration in a DotNet project
