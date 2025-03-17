@@ -256,3 +256,11 @@
 # Date-> 07-03-25
 
     - RabbitMQ implementation
+
+# Date-> 17-03-25
+    - Node REPL to write code in Command Line
+    - Node Debugger. How to debug a JS code
+    - JS Data Types
+    - Programming Constructs
+        - Simple Statements, Conditional Statements and Loops
+    - Functions and Function Expressions
