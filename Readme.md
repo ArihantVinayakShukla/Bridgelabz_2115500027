@@ -275,3 +275,7 @@
     - HTML
     - CSS
     - JS
+
+# Date-> 21-03-25
+
+    - AngularJs
