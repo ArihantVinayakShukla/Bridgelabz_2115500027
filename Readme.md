@@ -279,3 +279,10 @@
 # Date-> 21-03-25
 
     - AngularJs
+
+# Date-> 22-03-25
+
+    - 1: Interpolation Technique using Angular Expression
+    - 2: Property Binding
+    - 3: Event Binding
+    - 4: Two Way Binding
