@@ -286,3 +286,7 @@
     - 2: Property Binding
     - 3: Event Binding
     - 4: Two Way Binding
+
+# Date-> 24-03-25
+
+    - Developed the employee wage frontend using angularJs
